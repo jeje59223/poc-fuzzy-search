@@ -1,0 +1,47 @@
+[
+  {
+    "id": "f779bb42-a390-437b-8a92-86c049da7601",
+    "labels": { "fr_FR": "Electricien", "en_GB": "Electrician" },
+    "specialties":
+    [
+      {
+        "id": "952c16e4-0124-472e-ba09-46f69dedf694",
+        "labels": { "fr_FR": "Technicien télécoms et réseaux", "en_GB": "Network Technician" }
+      },
+      {
+        "id": "952c16e4-0124-472e-ba09-46f69dedf695",
+        "labels": { "fr_FR": "Domoticien!!", "en_GB": "Home Automation!!" }
+      }
+    ]
+  },
+  {
+    "id": "f779bb42-a390-437b-8a92-86c049da7602",
+    "labels": { "fr_FR": "Plombier héroïque", "en_GB": "Heroic Plumber" },
+    "specialties":
+    [
+      {
+        "id": "952c16e4-0124-472e-ba09-46f69dedf612",
+        "labels": { "fr_FR": "Chauffagiste", "en_GB": "Heating Engineer" }
+      },
+      {
+        "id": "952c16e4-0124-472e-ba09-46f69dedf613",
+        "labels": { "fr_FR": "Plombier sanitaire", "en_GB": "Sanitary Plumber" }
+      }
+    ]
+  },
+  {
+    "id": "f779bb42-a390-437b-8a92-86c049dz1234",
+    "labels": { "fr_FR": "Maçon", "en_GB": "Builder" },
+    "specialties":
+    [
+      {
+        "id": "952c16e4-0124-472e-ba09-46f69dedf612",
+        "labels": { "fr_FR": "Technicien du parpaing", "en_GB": "Concrete Block Technician" }
+      },
+      {
+        "id": "952c16e4-0124-472e-ba09-46f69dedf613",
+        "labels": { "fr_FR": "Poseur de briques", "en_GB": "Bricklayer" }
+      }
+    ]
+  }
+]

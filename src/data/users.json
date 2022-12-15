@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "firstName": "Chris",
+    "lastName": "Redfield",
+    "company": "Stars"
+  },
+  {
+    "id": 2,
+    "firstName": "Jill",
+    "lastName": "Valentine",
+    "company": "Stars"
+  },
+  {
+    "id": 3,
+    "firstName": "Ada",
+    "lastName": "Wong",
+    "company": "Umbrella"
+  },
+  {
+    "id": 4,
+    "firstName": "Rico",
+    "lastName": "Rodriguez",
+    "company": "Scorpion"
+  },
+  {
+    "id": 5,
+    "firstName": "Leon",
+    "lastName": "Kennedy",
+    "company": "American government"
+  },
+  {
+    "id": 6,
+    "firstName": "Albert",
+    "lastName": "Wesker",
+    "company": "Umbrella"
+  },
+  {
+    "id": 7,
+    "firstName": "Barry",
+    "lastName": "Burton",
+    "company": "Stars"
+  },
+  {
+    "id": 8,
+    "firstName": "Jack",
+    "lastName": "Krauser",
+    "company": "SOCOM"
+  },
+  {
+    "id": 9,
+    "firstName": "Excella",
+    "lastName": "Gionne",
+    "company": "Tricell"
+  },
+  {
+    "id": 10,
+    "firstName": "Ricardo",
+    "lastName": "Irving",
+    "company": "Tricell"
+  }
+]
